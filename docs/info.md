@@ -13,7 +13,7 @@ My Wokwi design is a simple full adder schematic. There are three inputs that co
 
 ## How to test
 
-:/
+truth rables
 
 ## External hardware
 
