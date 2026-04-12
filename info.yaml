@@ -2,8 +2,8 @@
 project:
   wokwi_id:     460851840405088257       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Full Adder"      # Project title
-  author:       "Harish Prabhakaran"      # Your name
-  discord:      "HP824"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  author:       "Sumaiya"      # Your name
+  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Simple Full Adder Schematic in Wokwi"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
