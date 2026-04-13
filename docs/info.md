@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-My Wokwi design is a simple full adder schematic. There are three inputs that correspond to two 1-bit inputs and a carry bit. There are two outputs hooked up to two LEDs (one red and one blue) that correspond to the sum and carry bits respectively.
+My Wokwi design is a simple full adder schematic. There are three inputs that correspond to two 1-bit inputs and a carry bit. There are two outputs hooked up to two LEDs (one red and one blue) that correspond to the sum and carry bits respectively. Hence a completed wokwi simulation 
 
 ## How to test
 
@@ -17,4 +17,4 @@ truth tables
 
 ## External hardware
 
-External hardware for this project includes two LEDs (colors are up to discretion)
+External hardware for this project includes two LEDs (colors are up to discretion) and 2 resistors.
